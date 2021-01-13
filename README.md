@@ -1,1 +1,2 @@
-# studyNotes
+- 骨架屏代码
+- https://www.yuque.com/currywxj/dpbbim/vyp9g0
