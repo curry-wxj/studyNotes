@@ -1,0 +1,13 @@
+{
+  "name": "create-react-app2",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "wxj <920350341@qq.com>",
+  "homepage": "https://github.com/curry-wxj/studyNotes#readme",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^7.0.0",
+    "cra-template2": "^0.0.0",
+    "react-scripts2": "^0.0.0"
+  }
+}
